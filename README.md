@@ -1,5 +1,5 @@
 # command-line-calculator
-A simple Python command-line calculator 
+A simple Python command-line calculator. 
 This project was created as a practice exercise after completing *Python Crash Course*. 
 It is the **v1.0 release** of an ongoing learning project.
 
@@ -55,3 +55,4 @@ Here is a sample run of the calculator:
 This project is licensed under the MIT License.  
 
 See the [LICENSE](LICENSE) file for details.
+
