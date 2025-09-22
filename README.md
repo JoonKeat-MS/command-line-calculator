@@ -19,7 +19,7 @@ It is the **v1.1 release** of an ongoing learning project.
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/command-line-calculator.git
+   git clone https://github.com/JoonKeat-MS/command-line-calculator.git
    cd command-line-calculator
    ```
 
@@ -56,3 +56,4 @@ Here is a sample run of the calculator:
 ## License
 This project is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for details.
+
